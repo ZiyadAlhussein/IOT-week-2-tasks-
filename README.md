@@ -1,10 +1,11 @@
 # IOT-week-2-tasks-
 **Task 1: developing an Arabic voice recognition for Chrome browser**
+
 (Helpful source: https://www.youtube.com/watch?v=-k-PgvbktX4) 
 
-**1. Download Visual Studio Code program: https://code.visualstudio.com/download **
+**1. Download Visual Studio Code program: https://code.visualstudio.com/download**
 
-**2.Developing the voice recognition:
+**2. Developing the voice recognition:**
 
 The program consists of three main parts:
 
