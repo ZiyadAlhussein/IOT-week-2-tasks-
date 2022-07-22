@@ -97,5 +97,12 @@ function voice(){
     recognition.start();
 }
   ```
+  **3. Save all 3 codes in the same folder then Open "index.html" the following chrome brower will open:
   
+  ![image](https://user-images.githubusercontent.com/108147030/180515885-e6928848-f9e0-4875-99ce-f9e60b93da97.png)
+
+Click on "Start" and it will recognize your Arabic voice as show here: 
+
+![image](https://user-images.githubusercontent.com/108147030/180516151-5bf6bcca-7e90-4de7-9d7f-3d0b17c0f198.png)
+
   
