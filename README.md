@@ -55,6 +55,10 @@ void loop() {
   delay(2000);                       // wait for 2 second
 }
   ```
+  ![image](https://user-images.githubusercontent.com/108147030/180528367-6cffb6c9-2a81-45a8-b231-b8e1a5ea4bc8.png)
+  ![image](https://user-images.githubusercontent.com/108147030/180528690-8faa0b32-3a96-4c9f-a074-4026b3ba77dd.png)
+
+
 **4. Operation 2: Wifi hotspot with ESP32 board**
 Upload the following code to turn ESP32 board into a wifi hotspot, with SSID: ESP32WIFI and Passward: 123456789.
 
